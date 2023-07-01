@@ -1,0 +1,15 @@
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\bin\Debug\net7.0\ProjetoTamagoshi.exe
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\bin\Debug\net7.0\ProjetoTamagoshi.deps.json
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\bin\Debug\net7.0\ProjetoTamagoshi.runtimeconfig.json
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\bin\Debug\net7.0\ProjetoTamagoshi.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\bin\Debug\net7.0\ProjetoTamagoshi.pdb
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.csproj.AssemblyReference.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.AssemblyInfoInputs.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.AssemblyInfo.cs
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\refint\ProjetoTamagoshi.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.pdb
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ProjetoTamagoshi.genruntimeconfig.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\Tamagoshi\obj\Debug\net7.0\ref\ProjetoTamagoshi.dll

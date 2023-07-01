@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Soares\\Desktop\\C# gustavo\\Tamagoshi\\Tamagoshi.csproj",
-      "projectName": "Tamagoshi",
-      "projectPath": "C:\\Users\\Gustavo Soares\\Desktop\\C# gustavo\\Tamagoshi\\Tamagoshi.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo Soares\\Desktop\\C# gustavo\\Tamagoshi\\ProjetoTamagoshi.csproj",
+      "projectName": "ProjetoTamagoshi",
+      "projectPath": "C:\\Users\\Gustavo Soares\\Desktop\\C# gustavo\\Tamagoshi\\ProjetoTamagoshi.csproj",
       "packagesPath": "C:\\Users\\Gustavo Soares\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gustavo Soares\\Desktop\\C# gustavo\\Tamagoshi\\obj\\",
       "projectStyle": "PackageReference",
